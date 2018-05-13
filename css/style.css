@@ -13,7 +13,7 @@ body {
 .mainpage {		
     position: relative;
     border-top: 62px solid white;
-	background-image: url(../images/the_man.png);
+	background-image: url(images/the_man.png);
     background-size: cover;
     text-align: center;
     margin: 0 auto;
@@ -149,7 +149,7 @@ nav {
 	margin-top: 45px;
 	margin-right: 60px;
     text-align: center;
-    content: url('../images/mainheader-bracket.png');   
+    content: url(images/mainheader-bracket.png);   
 }
 
 .mainpage-knowmore {	
@@ -255,7 +255,7 @@ nav {
 	display: inline-block;
 	width: 36px;
 	height: 33px;
-	background-image: url(../images/icon-first.png);
+	background-image: url(images/icon-first.png);
 	background-repeat: no-repeat;
 }
 
@@ -396,7 +396,7 @@ nav {
 	display: inline-block;
 	width: 36px;
 	height: 36px;
-	background-image: url(../images/icon-second.png);
+	background-image: url(images/icon-second.png);
 	background-repeat: no-repeat;	
 }
 
@@ -451,7 +451,7 @@ nav {
 
  .image-fone {
   display: inline-block;
-  background: url(../images/services-1.png) no-repeat;
+  background: url(images/services-1.png) no-repeat;
   width: 50%;
   min-height: 728px;
   vertical-align: top;
